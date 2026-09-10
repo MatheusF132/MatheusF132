@@ -2,16 +2,14 @@
 
 ### 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mths_francisc0/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN-AQUI)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SEU-USUARIO-AQUI)
 
 ---
 
 ### 📊 GitHub Stats:
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MatheusF132&show_icons=true&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatheusF132&theme=radical&hide_border=true)
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusF132&layout=compact&theme=radical&hide_border=true)
+![GitHub Insights](https://github-profiles-insights.vercel.app/api/insight?username=MatheusF132&theme=github_dark&profile=true&header=true&summary=true&stats=false&languages=false&streak=false&graph=false)
 
 ---
 
