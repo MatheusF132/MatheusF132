@@ -9,7 +9,9 @@
 
 ### 📊 GitHub Stats:
 
-![GitHub Insights](https://github-profiles-insights.vercel.app/api/insight?username=MatheusF132&theme=github_dark&profile=true&header=true&summary=true&stats=false&languages=false&streak=false&graph=false)
+### 📊 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusF132&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
 
 ---
 
