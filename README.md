@@ -9,9 +9,7 @@
 
 ### 📊 GitHub Stats:
 
-### 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusF132&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-indol-two-72.vercel.app/api?username=MatheusF132&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
 
 ---
 
