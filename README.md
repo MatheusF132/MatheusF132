@@ -22,9 +22,9 @@
       <img width="100%" src="https://github-readme-stats-indol-two-72.vercel.app/api?username=MatheusF132&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
     </td>
     <td width="45%" valign="top">
-      <img width="100%" src="https://streak-stats.demolab.com?user=MatheusF132&theme=github-dark&hide_border=true&hide_current_streak=true&hide_longest_streak=true" /><br/>
-      <img width="100%" src="https://streak-stats.demolab.com?user=MatheusF132&theme=github-dark&hide_border=true&hide_total_contributions=true&hide_longest_streak=true" /><br/>
-      <img width="100%" src="https://streak-stats.demolab.com?user=MatheusF132&theme=github-dark&hide_border=true&hide_total_contributions=true&hide_current_streak=true" />
+      <img width="100%" src="https://streak-stats.demolab.com?user=MatheusF132&theme=github-dark&hide_border=true&hide_current_streak=true&hide_longest_streak=true&card_width=260" /><br/>
+      <img width="100%" src="https://streak-stats.demolab.com?user=MatheusF132&theme=github-dark&hide_border=true&hide_total_contributions=true&hide_longest_streak=true&card_width=260" /><br/>
+      <img width="100%" src="https://streak-stats.demolab.com?user=MatheusF132&theme=github-dark&hide_border=true&hide_total_contributions=true&hide_current_streak=true&card_width=260" />
     </td>
   </tr>
 </table>
