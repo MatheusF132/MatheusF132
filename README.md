@@ -16,18 +16,16 @@
 
 ### 📊 GitHub Stats:
 
-<table width="100%">
-  <tr>
-    <td width="55%" valign="middle" align="center">
-      <img width="100%" src="https://github-readme-stats-indol-two-72.vercel.app/api?username=MatheusF132&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
-    </td>
-    <td width="45%" valign="top">
-      <img width="100%" src="https://streak-stats.demolab.com?user=MatheusF132&theme=github-dark&hide_border=true&hide_current_streak=true&hide_longest_streak=true&card_width=260" /><br/>
-      <img width="100%" src="https://streak-stats.demolab.com?user=MatheusF132&theme=github-dark&hide_border=true&hide_total_contributions=true&hide_longest_streak=true&card_width=260" /><br/>
-      <img width="100%" src="https://streak-stats.demolab.com?user=MatheusF132&theme=github-dark&hide_border=true&hide_total_contributions=true&hide_current_streak=true&card_width=260" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-indol-two-72.vercel.app/api?username=MatheusF132&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=MatheusF132&theme=github-dark&hide_border=true" />
+</div>
+
+### 📈 Atividade Recente:
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusF132&bg_color=0d1117&color=58a6ff&line=39d353&point=39d353&area=true&hide_border=true" width="100%" />
+</div>
 
 ---
 
