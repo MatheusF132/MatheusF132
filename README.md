@@ -17,9 +17,15 @@
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MatheusF132&theme=github_dark&utcOffset=-3" alt="Horários mais produtivos" />
+  <a href="https://github.com/MatheusF132">
+    <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusF132&theme=github_dark" alt="Perfil e Gráfico de Contribuições" />
+  </a>
+
   <br /><br />
-  <img width="50%" src="https://github-readme-stats-indol-two-72.vercel.app/api?username=MatheusF132&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
+
+  <a href="https://github.com/MatheusF132">
+    <img width="60%" src="https://github-readme-stats-indol-two-72.vercel.app/api?username=MatheusF132&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Estatísticas Gerais" />
+  </a>
 </div>
 
 ---
